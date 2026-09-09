@@ -1,0 +1,15 @@
+.venv/
+.runtime/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+artifacts/
+.coverage
+*.egg-info/
